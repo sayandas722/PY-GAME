@@ -15,15 +15,16 @@ def rock_paper_scissor(num1,num2,bit1,bit2):
         print("Player two wins!! ")
     elif(player_one[p1] == "Scissor" and player_two[p2] == "Paper"):
         print("Player one wins!! ")
+
+print("0: Stone\n1: Paper\n2: Scissor\n")
 player_one={0:'Rock',1:'Paper',2:'Scissor'}
-player_two={0:'Paper',1:'Rock',2:'Scissor'}
-while(1):
-    num1=input("Player one, Enter your choice")
-    num2 = input("Player two, Enter your choice")
-    bit1= int(input("Player one,Enter the secret bit position"))
-    bit2 = int(input("Player two,Enter the secret bit position"))
+player_two={0:'Rock',1:'Paper',2:'Scissor'}
+ch='y'
+while(ch!='n'):
+    num1=input("Player one, Enter your choice how you want to arrange Store, Paper and Scissor by entering 123 in any combination: ")
+    num2 =input("Player two, Enter your choice how you want to arrange Store, Paper and Scissor by entering 123 in any combination: ")
+    bit1= int(input("Player one, Enter the a Number from 0 to 2: "))
+    bit2 = int(input("Player two, Enter the a Number from 0 to 2: "))
     rock_paper_scissor(num1,num2,bit1,bit2)
-    ch=input("DO YOU WANT  TO CONTIENUE? y/n")
-    if(ch=='n'):
-        break
+    ch=input("DO YOU WANT  TO CONTIENUE? y/n ")
 
