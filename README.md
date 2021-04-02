@@ -1,31 +1,19 @@
 
 
 # PY-GAME
-PY-GAME is rock paper scissor vitual edition with zero chances of cheating while playing.
-python code
+* Before diving into the game and playing it make sure you have read the [Rules and Scoring System](Rules_and_scoring.md) of the game
+----------------------------------
+# Demo Game
+![Gameplay](https://user-images.githubusercontent.com/70687014/113423579-5efaed00-93ec-11eb-934a-0176b774b79d.mp4)
+----------------------------------
+#### If you want to make any changes feel free to do it as long as it is for the betterment of the Repository we will create a Pull Request.
+#### Want to make a contribution but stuck? Check on [How to Contribute](https://github.com/abirbhattacharya82/Basic-Calculator/blob/master/how_to_contribute.md)
 
+## New to GitHub?
+* ![Intro](https://www.youtube.com/watch?v=V4K6Dy9DWm8)
+* ![Adding files and Creating a Repo](https://www.youtube.com/watch?v=VWzQSXCTLOM)
+* ![Cloning a Repo and Adding files to it](https://www.youtube.com/watch?v=L2_XikMM0nI)
+* ![How to make Contributions](https://www.youtube.com/watch?v=b-hGpPrVcus)
+---------------------------------------
 
-
-GIVE ME A STAR ...
-create pull req. improve my code.
-
-
-
-![result](https://user-images.githubusercontent.com/73294479/113382789-0271e080-93a0-11eb-9d7e-2890f045361f.PNG)
-![Capture](https://user-images.githubusercontent.com/73294479/113382856-2c2b0780-93a0-11eb-9ba5-158ea2e59ceb.PNG)
-![Capture2](https://user-images.githubusercontent.com/73294479/113383336-56c99000-93a1-11eb-8495-284b1733311a.PNG)
-
-
-
-
-# How to Play
-input a set of random numbers for player 1 and for player 2.
-
-input the bit for the given number (bit= position of the number u want  to choose ..note: bit starts from 0)
-
-the code shows the result as draw , player 1 wins or player 2 wins.
-
-
-#THANK YOU
-
-
+We made this Repo using :snake: python. If you like it please leave us a :star: or take us out for a ☕
