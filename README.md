@@ -18,7 +18,9 @@ create pull req. improve my code.
 
 # How to Play
 input a set of random numbers for player 1 and for player 2.
+
 input the bit for the given number (bit= position of the number u want  to choose ..note: bit starts from 0)
+
 the code shows the result as draw , player 1 wins or player 2 wins.
 
 
