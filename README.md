@@ -26,6 +26,6 @@ input the bit for the given number (bit= position of the number u want  to choos
 the code shows the result as draw , player 1 wins or player 2 wins.
 
 
-#THANK YOU#
+#THANK YOU
 
 
